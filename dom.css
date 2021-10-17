@@ -1,0 +1,24 @@
+.image-flag{
+    height: 150px;
+    width: 300px;
+   object-fit: cover;
+}
+body{
+    font-family:"poppins", sans-serif;
+    
+}
+.flag-container{
+    background-color: white;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 20px 0px;
+    height: 90%;
+    box-shadow: rgba(12, 11, 11, 0.1)0px 4px 12px;
+}
+.detail{
+    padding: 10px;
+    
+}
+.space{
+    padding: 10px;
+}
